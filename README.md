@@ -20,7 +20,7 @@ Ressalto alguns bem interessantes:
 
 ✔ Menor de três.
 
-Acredito que esses programas podem ajudar bastante, quem está iniciando na lógica computacional, bem como quem está querendo aprimorar a mesma.
+Acredito que esses programas podem ajudar quem está iniciando na lógica computacional, bem como quem está querendo aprimorar a mesma.
 
 
 
