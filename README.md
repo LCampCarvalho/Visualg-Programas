@@ -4,7 +4,7 @@ Programas criados em português estruturado (Portugol), para solução de proble
 
 Realizei esses programas ao longo do curso que fiz de Algoritimos e Lógica de Programação que realizei da Udemy.
 
-Ressalto alguns bem interessantes como:
+Ressalto alguns bem interessantes:
 
 ✔ Calculadora de Bhaskara;
 
